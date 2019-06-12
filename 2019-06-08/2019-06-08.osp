@@ -56,7 +56,7 @@
             "vcodec": "h264",
             "width": 1280,
             "duration": 3809.299072265625,
-            "path": "../my_recordings/2019-06-08.copy.mp4",
+            "path": "../../my_recordings/2019-06-08.copy.mp4",
             "height": 720
         },
         {
@@ -620,7 +620,7 @@
                 "vcodec": "h264",
                 "width": 1280,
                 "duration": 3809.299072265625,
-                "path": "../my_recordings/2019-06-08.copy.mp4",
+                "path": "../../my_recordings/2019-06-08.copy.mp4",
                 "height": 720
             },
             "image": "thumbnail/L14OUUH1HE.png",
