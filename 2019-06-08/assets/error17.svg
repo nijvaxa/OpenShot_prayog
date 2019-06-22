@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!-- Created with Inkscape (http://www.inkscape.org/) --><svg height="1080" id="svg2383" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="error7.svg" sodipodi:version="0.32" version="1.0" width="1920" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<?xml version="1.0" ?><!-- Created with Inkscape (http://www.inkscape.org/) --><svg height="1080" id="svg2383" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="error17.svg" sodipodi:version="0.32" version="1.0" width="1920" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs id="defs2385">
     <linearGradient id="linearGradient3190" inkscape:collect="always">
       <stop id="stop3192" offset="0" style="stop-color:#324da7;stop-opacity:1"/>
@@ -18,7 +18,7 @@
       <path d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" id="path4562" inkscape:connector-curvature="0" style="fill:#ffa577;fill-opacity:1;fill-rule:evenodd;stroke:#ffa577;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1" transform="scale(0.6)"/>
     </marker>
   </defs>
-  <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" gridtolerance="10000" guidetolerance="10" id="base" inkscape:current-layer="layer1" inkscape:cx="172.94201" inkscape:cy="953.51767" inkscape:document-units="px" inkscape:guide-bbox="true" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="720" inkscape:window-maximized="0" inkscape:window-width="1280" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="0.5" objecttolerance="10" pagecolor="#ffffff" showgrid="false" showguides="true"/>
+  <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" gridtolerance="10000" guidetolerance="10" id="base" inkscape:current-layer="layer1" inkscape:cx="723.20065" inkscape:cy="640.59033" inkscape:document-units="px" inkscape:guide-bbox="true" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="720" inkscape:window-maximized="0" inkscape:window-width="1280" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="0.70710678" objecttolerance="10" pagecolor="#ffffff" showgrid="false" showguides="true"/>
   <metadata id="metadata2388">
     <rdf:RDF>
       <cc:Work rdf:about="">
@@ -28,13 +28,11 @@
     </rdf:RDF>
   </metadata>
   <g id="layer1" inkscape:groupmode="layer" inkscape:label="Layer 1" transform="translate(1.9328e-3,0)">
-    <g id="g861">
-      <g id="g1056" transform="translate(475.76155,138.83557)">
-        <rect height="81.147186" id="rect4534" style="fill:#ffd5d5;stroke-width:1.14217079" width="507.04968" x="23.144386" y="132.74792"/>
-        <path d="m 171.31658,288.82158 c 4.7468,-50.599 39.16228,-75.33007 39.16228,-75.33007" id="path4536" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" style="fill:none;stroke:#ffa577;stroke-width:3.91435909;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart)"/>
-        <text id="text22" style="font-style:normal;font-weight:normal;font-size:57.76696396px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.44417405" x="37.086578" xml:space="preserve" y="198.36797"><tspan id="tspan21" sodipodi:role="line" style="stroke-width:1.44417405" x="37.086578" y="198.36797">जो चीज़ ज़रूरी है वह है </tspan></text>
-      </g>
-      <path d="M 550.47029,504.79985 H 747.53125" id="path837" inkscape:connector-curvature="0" style="fill:none;stroke:#ff0000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.80784314"/>
+    <g id="g1056" transform="translate(431.40115,288.74221)">
+      <rect height="81.147186" id="rect4534" style="fill:#ffd5d5;stroke-width:0.49594569" width="95.599731" x="178.47238" y="132.74792"/>
+      <path d="m 273.44227,290.82158 c -4.7468,-50.599 -39.16228,-75.33007 -39.16228,-75.33007" id="path4536" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" style="fill:none;stroke:#ffa577;stroke-width:3.91435909;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart)"/>
+      <text id="text22" style="font-style:normal;font-weight:normal;font-size:57.76696396px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.44417405" x="191.08658" xml:space="preserve" y="198.36797"><tspan id="tspan21" sodipodi:role="line" style="stroke-width:1.44417405" x="191.08658" y="198.36797">करें</tspan></text>
     </g>
+    <path d="M 638.21398,618.32172 H 787.19166" id="path837" inkscape:connector-curvature="0" style="fill:none;stroke:#ff0000;stroke-width:6.95585155;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.80784314"/>
   </g>
 </svg>
